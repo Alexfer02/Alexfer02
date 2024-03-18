@@ -1,4 +1,4 @@
-![image](https://github.com/Alexfer02/Alexfer02/assets/92452225/8e06f500-87c4-4f22-b755-fca5de8acbb0)# ¡Hola! Soy Alejandro
+# ¡Hola! Soy Alejandro
 
 ## Estudiante a tiempo completo en la Universidad de Sevilla
 
