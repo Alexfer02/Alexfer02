@@ -1,5 +1,28 @@
+![image](https://github.com/Alexfer02/Alexfer02/assets/92452225/8e06f500-87c4-4f22-b755-fca5de8acbb0)# ¡Hola! Soy Alejandro
 
-<h1>Hola. Soy Alejandro.</h1>
-<h4>  Actualmente soy estudiante a tiempo completo en la Universidad de Sevilla.
-Escribe por privado aquí: <a href="mailto:git.alexfer202@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a>
-<br>Ingeniería Informática. Tecnologías Informáticas</h4>
+## Estudiante a tiempo completo en la Universidad de Sevilla
+
+**Ingeniería Informática** | **Tecnologías Informáticas**
+
+## Contacto:
+* **GitHub:** alexfer02
+
+## Tecnologías que domino:
+
+* Python 
+* Java ☕
+* HTML/CSS
+* JavaScript ⚡️
+* Git
+* ... ¡y muchas más!
+
+## Sobre mí:
+
+* Soy una persona apasionada por la tecnología y la informática.
+* Me encanta aprender cosas nuevas y afrontar nuevos retos.
+* Soy un gran trabajador en equipo y siempre estoy dispuesto a ayudar.
+* Me gusta viajar y conocer nuevas culturas. ✈️
+
+## No dudes en contactarme si tienes alguna pregunta o quieres saber más sobre mí.
+
+## ¡Gracias por tu visita!
