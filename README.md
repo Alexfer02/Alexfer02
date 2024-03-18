@@ -5,7 +5,8 @@
 **Ingeniería Informática** | **Tecnologías Informáticas**
 
 ## Contacto:
-* **GitHub:** alexfer02
+* **Email:** alexfer202 en gmail.com
+* **LinkedIn** [https://www.linkedin.com/in/alexfer02/](https://www.linkedin.com/in/alexfer02/)
 
 ## Tecnologías que domino:
 
