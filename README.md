@@ -47,6 +47,6 @@
 
 ## 📬 Contacto
 
-- **Correo Electrónico**: [tuemail@dominio.com](mailto:alexfer202@gmail.com)
+- **Correo Electrónico**: [alexfer202@gmail.com](mailto:alexfer202@gmail.com)
 - **LinkedIn**: [linkedin.com/in/alejandro-fernandez-orozco](https://www.linkedin.com/in/alexfer02/)
 - **GitHub**: [github.com/Alexfer02](https://github.com/Alexfer02)
