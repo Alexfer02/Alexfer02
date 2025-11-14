@@ -5,13 +5,11 @@
 ---
 
 ## 🎓 Formación Académica
-
 - **Grado en Ingeniería Informática** – Universidad de Sevilla  
   *Fecha de inicio: Septiembre 2020*  
   *Fecha estimada de finalización: Diciembre 2025*
 
-
- - **Máster en Desarrollo y Operaciones (DevOps)** – Universidad Internacional de la Rioja
+- **Máster en Desarrollo y Operaciones (DevOps)** – Universidad Internacional de la Rioja  
   *Fecha de inicio: Noviembre 2025*  
   *Fecha estimada de finalización: Junio 2026*
 
