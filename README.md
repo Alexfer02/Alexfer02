@@ -1,36 +1,46 @@
 # 👨‍💻 Alejandro Fernández Orozco
 
-¡Hola! Soy **Alejandro Fernández Orozco**, estudiante de **Ingeniería Informática** en la Universidad de Sevilla. Me apasiona el desarrollo de software, la ingeniería de sistemas y la creación de soluciones tecnológicas innovadoras.
+¡Hola! Soy **Alejandro Fernández Orozco**, **Ingeniero Informático** por la Universidad de Sevilla. Me apasiona el desarrollo de software, la ingeniería de sistemas y la creación de soluciones tecnológicas innovadoras.
 
 ---
 
 ## 🎓 Formación Académica
+
 - **Grado en Ingeniería Informática** – Universidad de Sevilla  
-  *Fecha de inicio: Septiembre 2020*  
-  *Fecha estimada de finalización: Diciembre 2025*
+  _Fecha de inicio: Septiembre 2020_  
+  _Fecha de finalización: Diciembre 2025_
 
 - **Máster en Desarrollo y Operaciones (DevOps)** – Universidad Internacional de la Rioja  
-  *Fecha de inicio: Noviembre 2025*  
-  *Fecha estimada de finalización: Junio 2026*
+  _Fecha de inicio: Noviembre 2025_  
+  _Fecha estimada de finalización: Junio 2026_
 
 ---
 
 ## 🏆 Proyectos Destacados
 
+### **Trabajo fin de Grado: ProyectamUS**
+
+- **Descripción**: Software de control de proyección en pantallas institucionales para la Universidad de Sevilla. Sistema que centraliza y gestiona de forma segura contenidos (imágenes, videos y noticias) mostrados en pantallas de la escuela. Desarrollo colaborativo completo incluyendo arquitectura de software, seguridad y desarrollo web full-stack.
+- **Calificación**: 9,4 - Sobresaliente
+- **Tecnologías**: Node.js, Express, MySQL, Vue, JWT
+- **Repositorio**: [ProyectamUS](https://github.com/Alexfer02/ProyectamUS)
+
 ### **Gastronify**
+
 - **Descripción**: Aplicación multiplataforma (iOS, Android y Web) para gestión de restaurantes, desarrollada con React Native y Expo Go como proyecto académico en la asignatura de Computación Móvil (CM).
 - **Calificación**: 10 – Sobresaliente
 - **Tecnologías**: React, Node.js, MongoDB
 - **Repositorio**: [Gastronify](https://github.com/jorgefl8/Gastronify)
 
 ### **Red Social IISSI Friends**
+
 - **Descripción**: Desarrollo de una red social universitaria como proyecto académico en la asignatura de Ingeniería de Sistemas de Información (IISSI).
 - **Calificación**: 10 – Sobresaliente
 - **Tecnologías**: Python, Silence Framework, MySQL, HTML, CSS, JavaScript
 - **Repositorio**: [Red Social IISSI Friends](https://github.com/Alexfer02/Red-Social-IISSI-Friends)
 
-
 ### **SOS2324-20 – Análisis de Indicadores Socioeconómicos**
+
 - **Descripción**: Proyecto académico en la asignatura de Sistemas Orientados a Servicios (SOS). Desarrollo de una API RESTful para analizar la relación entre la esperanza de vida y el gasto farmacéutico en España.
 - **Calificación**: 10 – Sobresaliente
 - **Tecnologías**: Node.js, Express, Docker, Google Cloud Platform
